@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Evropští zápasníci MMA v organizaci UFC
 ---
 
 **Cílem webové stránky je přiblížit zápasníky MMA, kteří zápasí v organizaci UFC a pochází z Evropy**
