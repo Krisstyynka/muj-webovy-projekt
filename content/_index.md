@@ -2,26 +2,13 @@
 title: Home
 ---
 
-# Hello World! (It works!)
+**Cílem webové stránky je přiblížit zápasníky MMA, kteří zápasí v organizaci UFC a pochází z Evropy**
 
-This are the contents of the Hugo start website front page.
+Hlavním tématem této webové stránky budou evropští zápasníci smíšeného bojového umění neboli MMA. MMA je bojový sport, který kombinuje techniky jiných bojových sportů či bojových umění. MMA propojuje boj v postoji, boj na zemi i zápas. 
 
-## Something to read: Sonnet LXVI.
+MMA, hlavně díky organizaci UFC, začíná být v posledních letech velmi oblíbené a získává si čím dál více fanoušků po celém světě, i v České republice. I když popularita tohoto sportu u nás stále roste, v našem jazyce není dostupný žádný přehled zápasníků, který by obsahoval i podrobnější informace. 
 
-> *Tired with all these, for restful death I cry,  
-> As to behold desert a beggar born,  
-> And needy nothing trimm'd in jollity,  
-> And purest faith unhappily forsworn,  
-> And gilded honour shamefully misplaced,  
-> And maiden virtue rudely strumpeted,  
-> And right perfection wrongfully disgraced,  
-> And strength by limping sway disabled  
-> And art made tongue-tied by authority,  
-> And folly, doctor-like, controlling skill,  
-> And simple truth miscalled simplicity,  
-> And captive good attending captain ill:  
-> Tired with all these, from these would I be gone,  
-> Save that, to die, I leave my love alone.*
-> 
-> William Shakespeare
 
+https://www.ufc.com/ <br>
+https://en.wikipedia.org/wiki/List_of_current_UFC_fighters
+http://www.ufcbetting.com/fighters/
