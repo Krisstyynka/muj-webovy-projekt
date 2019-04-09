@@ -5,56 +5,66 @@ menu:
     weight: 30
 ---
 
-1.	Stránka je určena lidem z České republiky, kteří se konkrétně o MMA zajímají, popř. i další lidé, kteří sdílí zálibu v bojových sportech. 
-2.	Evropští zápasníci MMA v organizaci UFC
-3.	<https://www.ufc.com/>
+**Cílová skupina:**
+Stránka je určena lidem z České republiky, kteří se konkrétně o MMA zajímají, popř. i další lidé, kteří sdílí zálibu v bojových sportech.
 
-<https://en.wikipedia.org/wiki/List_of_current_UFC_fighters>
+**Název webu:**
+Evropští zápasníci MMA v organizaci UFC
 
-<http://www.ufcbetting.com/fighters/>
+**Odkazy na webové zdroje:**
 
-<https://www.tapology.com/>
+- <https://www.ufc.com/>
+- <https://en.wikipedia.org/wiki/List_of_current_UFC_fighters>
+- <http://www.ufcbetting.com/fighters/>
+- <https://www.tapology.com/>
+- <https://www.sherdog.com/?fbclid=IwAR2Sga6vJPPhqajQQIMSBo1ZkYadNWbucGqfqfp3G_vVj40C0GMSbnvx0AM>
 
-<https://www.sherdog.com/?fbclid=IwAR2Sga6vJPPhqajQQIMSBo1ZkYadNWbucGqfqfp3G_vVj40C0GMSbnvx0AM>
+**Newebové zdroje - knihy (ve formátu název-autor, rok vydání):**
 
-4. **Knihy:**
+- Mma Encyclopedia – Jonathan Snowden, 2010
 
-Mma Encyclopedia – Jonathan Snowden, 2010
-Total MMA: Inside Ultimate Fighting – Jonathan Snowden, 2008
-UFC: A Visual History – Thomas M. Gerbasi, 2015
-Into the Cage: The Rise of UFC Nation – Gullo Nick, 2013
-Superstars of the UFC – Kortemeier Todd, 2017
-Fighting for Acceptance: Mixed Martial Artists and Violence in American Society – David Mayeda, 2008
+- Total MMA: Inside Ultimate Fighting – Jonathan Snowden, 2008
 
-5. <https://www.ufc.com/watch/library?fbclid=IwAR2E2JEJbb9Lluhl5Nf9yEbZLZgYRyFl92nD1aBxhfit_5lsUuwUFOpKvH8>
+- UFC: A Visual History – Thomas M. Gerbasi, 2015
 
-<https://www.mmafighting.com/photos?fbclid=IwAR3cwQ7SnJjlMDaMnPLZLFsy8ECt3UbMJ62it5UTBuezcqoH33BVfu8-ips>
+- Into the Cage: The Rise of UFC Nation – Gullo Nick, 2013
 
-<https://www.youtube.com/channel/UCvgfXK4nTYKudb0rFR6noLA?fbclid=IwAR1jv5C3vHCbmoGbyLjU31wj1icIFegQW_IJPe57q7olPWdEynlhxdPk6Fs>
+- Superstars of the UFC – Kortemeier Todd, 2017
 
-<https://www.youtube.com/watch?v=dTdTsxhIuXs>
+- Fighting for Acceptance: Mixed Martial Artists and Violence in American Society – David Mayeda, 2008
 
-<https://www.imdb.com/title/tt3320550/plotsummary?ref_=tt_ov_pl>
+**Odkazy na multimédia - videa a galerie obrázků:**
 
-6. <https://dangelicoguitars.com/?fbclid=IwAR1vysfNkFJAAvGgEMV7plRKFetCiw8k-b52kAefRJZBXSjMR11c7KoKurk>
+- <https://www.ufc.com/watch/library?fbclid=IwAR2E2JEJbb9Lluhl5Nf9yEbZLZgYRyFl92nD1aBxhfit_5lsUuwUFOpKvH8>
 
-Z tohoto webu bychom rády inspirovaly vzhledem horní lišty a celkový vzhled stránky zanechaly jednoduchý. Barevně sladěné do černo-červené – v barvách UFC.
+- <https://www.mmafighting.com/photos?fbclid=IwAR3cwQ7SnJjlMDaMnPLZLFsy8ECt3UbMJ62it5UTBuezcqoH33BVfu8-ips>
 
-7. 1)	Úvod – co je to MMA
-2)	MMA v České republice
-3)	UFC
-4)	1. zápasník
-5)	2. zápasník
-6)	3. zápasník
-7)	4. zápasník
-8)	5. zápasník
-9)	6. zápasník
-10)	7. zápasník
-11)	8. zápasník
-12)	9. zápasník
-13)	10. zápasník
+- <https://www.youtube.com/channel/UCvgfXK4nTYKudb0rFR6noLA?fbclid=IwAR1jv5C3vHCbmoGbyLjU31wj1icIFegQW_IJPe57q7olPWdEynlhxdPk6Fs>
 
-8. V první části našeho projektu se zaměříme na to, co to vlastně MMA je, jak probíhají tréninky zápasníků a zmíníme základní údaje o tomto sportu. Také nahlédneme k nám, do České republiky, a podíváme se, jakou tradici má zde tento sport a jaké organizace existují i u nás. Dále se budeme zabývat organizací UFC, kde popíšeme celou historii MMA, jak to všechno vzniklo. Ve druhé části projektu se budeme zabývat TOP 10 evropskými zápasníky MMA, které podrobněji představíme – jejich životy, úspěchy a kariéru.
+- <https://www.youtube.com/watch?v=dTdTsxhIuXs>
+
+- <https://www.imdb.com/title/tt3320550/plotsummary?ref_=tt_ov_pl>
+
+**Vizuální inspirace pro budoucí vzhled webu:**
+Z [tohoto](https://dangelicoguitars.com/?fbclid=IwAR1vysfNkFJAAvGgEMV7plRKFetCiw8k-b52kAefRJZBXSjMR11c7KoKurk) webu bychom rády inspirovaly vzhledem horní lišty a celkový vzhled stránky zanechaly jednoduchý, aby se uživateli v něm snadno orientovalo. Barevně sladěné do černo-červené – v barvách UFC.
+
+**Základní obsah k tématu:**
+
+- Úvod – co je to MMA
+- MMA v České republice
+- UFC
+- 1. zápasník
+- 2. zápasník
+- 3. zápasník
+- 4. zápasník
+- 5. zápasník
+- 6. zápasník
+- 7. zápasník
+- 8. zápasník
+- 9. zápasník
+- 10. zápasník
+
+**Strategie zveřejňování obsahu:** V první části našeho projektu se zaměříme na to, co to vlastně MMA je, jak probíhají tréninky zápasníků a zmíníme základní údaje o tomto sportu. Také nahlédneme k nám, do České republiky, a podíváme se, jakou tradici má zde tento sport a jaké organizace existují i u nás. Dále se budeme zabývat organizací UFC, kde popíšeme celou historii MMA, jak to všechno vzniklo. Ve druhé části projektu se budeme zabývat TOP 10 evropskými zápasníky MMA, které podrobněji představíme – jejich životy, úspěchy a kariéru.
 
 
 This is a minimal [Hugo][] website created for a course [VIKBA07][].
