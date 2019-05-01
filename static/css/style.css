@@ -1,37 +1,53 @@
 .wrapper {
-  margin: 30px auto;
-  max-width: 800px;
-  padding: 20px;
+  max-width: 5000px;
+  background-color: #BDBDBD;
+  font-family: Century gothic;
 }
 
 header {
-  padding: 30px 0 0;
-  border-bottom: solid;
+  padding: 30px 0 30px;
+  clear: both;
+  background-color: black;
+  font-weight: bold;
+  color: white;
+  text-shadow: 3px 3px #8A0808;
+  text-align: center;
+}
+
+a {
+  color: white;
 }
 
 footer {
-  border-top: solid;
   clear: both;
+  background-color: black;
+  color: white;
 }
 
 .page {
-  float: right;
+  float: left;
+  margin-left: 14em;
   width: 70%;
-  border-left: solid;
-  padding-left: 1.5em;
-  padding-bottom: 2em;
+  text-align: justify;
+  padding-left: 1em;
   min-height: 400px;
+  clear: both;
 }
 
 aside {
   float: left;
-  width: 25%;
-  margin-top: 1em;
+  width: 14em;
+  height: 120%;
+  position: absolute;
+  background-color: #8A0808;
+  color: black;
+  text-align: center;
 }
 
 nav ul {
   list-style-type: none;
-  padding: 0;
+  padding: 5em;
+  margin: 0;
 }
 
 nav li {
