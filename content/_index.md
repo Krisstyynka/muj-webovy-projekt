@@ -10,5 +10,5 @@ MMA, hlavně díky organizaci UFC, začíná být v posledních letech velmi obl
 
 
 https://www.ufc.com/ <br>
-https://en.wikipedia.org/wiki/List_of_current_UFC_fighters <br>
+https://en.wikipedia.org/wiki/List_of_current_UFC_fighters
 http://www.ufcbetting.com/fighters/
