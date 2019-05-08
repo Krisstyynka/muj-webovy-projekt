@@ -1,5 +1,9 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   <p class="date">{{ .Date.Local.Format "January 2, 2006" }}</p>
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5cd2a87584729def"></script>
   {{ .Content }}
+
+  <div class="addthis_inline_share_toolbox"></div>
+  
 {{ end }}
