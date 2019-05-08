@@ -46,7 +46,9 @@ Evropští zápasníci MMA v organizaci UFC
 - <https://www.imdb.com/title/tt3320550/plotsummary?ref_=tt_ov_pl>
 
 **Vizuální inspirace pro budoucí vzhled webu:**
-Z [tohoto](https://dangelicoguitars.com/?fbclid=IwAR1vysfNkFJAAvGgEMV7plRKFetCiw8k-b52kAefRJZBXSjMR11c7KoKurk) webu bychom rády inspirovaly vzhledem horní lišty a celkový vzhled stránky zanechaly jednoduchý, aby se uživateli v něm snadno orientovalo. Barevně sladěné do černo-červené – v barvách UFC.
+
+Z [tohoto](https://dangelicoguitars.com/?fbclid=IwAR1vysfNkFJAAvGgEMV7plRKFetCiw8k-b52kAefRJZBXSjMR11c7KoKurk) webu bychom se rády inspirovaly vzhledem horní lišty a celkový vzhled stránky zanechaly jednoduchý, aby se v něm uživatelé snadno orientovali. Barevně sladěné do černo-červené – v barvách UFC.
+
 
 **Základní obsah k tématu:**
 
