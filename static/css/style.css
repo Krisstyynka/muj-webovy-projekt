@@ -2,12 +2,11 @@
   max-width: 2000px;
   background-color: #BDBDBD;
   font-family: Century gothic;
-  background-image: url("https://marketplace.canva.com/MADGx8_0l5o/4/screen/canva-grayscale-photography-of-man-holding-boxer%27s-hand-inside-battle-ring-MADGx8_0l5o.jpg");
+  background-image: url("https://images.alphacoders.com/292/thumb-1920-292171.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 5% 40%;
 }
-
 
 header {
   padding: 10px 0 10px;
@@ -17,11 +16,6 @@ header {
   text-shadow: 3px 3px #8A0808;
   text-align: center;
   text-transform: uppercase;
-  /*background-image: url("https://cdn.pixabay.com/photo/2018/04/11/18/27/gloves-3311299_960_720.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: 80% 70%;*/
-
 }
 
 a {
@@ -39,35 +33,45 @@ footer {
   background-color: #BDBDBD;
   max-width: 1000px;
   float: left;
-  margin-left: 13em;
+  margin-left: 14em;
   margin-bottom: 1em;
+  margin-top: 3em;
   width: 70%;
   text-align: justify;
-  padding-left: 1em;
+  padding-left: 2em;
+  padding-right: 2em;
+  padding-bottom: 1em;
   min-height: 400px;
   clear: both;
 }
 
 aside {
   float: left;
-  width: 13em;
-  height: auto;
+  width: 1075px;
+  height: 3em;
   background-color: #8A0808;
   position: absolute;
   color: black;
-  text-align: center;*/
+  text-align: center;
+  list-style-type: none;
+  margin-left: 14em;
+  padding: 0;
+  overflow: hidden;
+  position: fixed;
 }
 
 nav ul {
   list-style-type: none;
-  padding: 3em;
-  margin: 0;
+  margin: 3;
+  padding: 0;
 }
 
 nav li {
-  margin-bottom: 1em;
+  display: inline;
+  padding: 3em;
 }
 
 nav .active {
   font-weight: bold;
+  background-color: black;
 }
