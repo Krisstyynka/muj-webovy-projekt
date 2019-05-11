@@ -8,13 +8,13 @@ tags:
     - UFC
 ---
 
-Datum narození: 18.srpna 1987 <br>
-Země narození: Polsko <br>
-Váhová kategorie: flyweight, dříve strawweight <br>
-Váha: 57 kg <br>
-Výška: 168 cm <br>
-Rozpětí paží: 166 cm <br>
-Aktivní roky: 2012 - současnost <br>
+**Datum narození:** 18.srpna 1987 <br>
+**Země narození:** Polsko <br>
+**Váhová kategorie:** flyweight, dříve strawweight <br>
+**Váha:** 57 kg <br>
+**Výška:** 168 cm <br>
+**Rozpětí paží:** 166 cm <br>
+**Aktivní roky:** 2012 - současnost <br>
 
 **Základní údaje** <br>
 Joanna Jedrzejczyk, narozená 18. srpna 1987, je polská zápasnice v MMA. Dříve se věnovala kick boxu a Muay Thai (thajský box). Muay Thai objevila, když jí bylo pouhých 16 let, následně se začala věnovat fitness, a to ji dovedlo až k soutěži na národních a evropských turnajích MMA. Tím, že dříve dělala Muay Thai, stráví většinu svých zápasů v postoji. Stala se první držitelkou UFC titulu z Polska. Aktuálně zápasí v kategorii flyweight, ovšem dříve patřila i do kategorie strawweight. Joanna Jedrzejczyk za svou dosavadní kariéru v MMA absolvovala 18 zápasů, z toho 15x zvítězila a 3x prohrála. V zápasech nejčastěji vítězí na body. U bodových rozhodčí na body zvítězila hned 10x ze svých patnácti výher. <br>
