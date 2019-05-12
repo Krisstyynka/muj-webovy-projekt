@@ -1,15 +1,14 @@
 .wrapper {
   max-width: 2000px;
-  background-color: #BDBDBD;
+  background-color: black;
   font-family: Century gothic;
-  background-image: url("https://images.alphacoders.com/292/thumb-1920-292171.jpg");
+  background-image: url("https://wallpapercave.com/wp/wp3143925.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
-  background-position: 5% 40%;
+  background-position: 45% 10%;
 }
 
 header {
-  padding: 10px 0 10px;
+  padding: 15px 0 15px;
   clear: both;
   background-color: black;
   color: white;
@@ -32,32 +31,33 @@ footer {
 .page {
   background-color: #BDBDBD;
   max-width: 1000px;
-  float: left;
-  margin-left: 14em;
-  margin-bottom: 1em;
-  margin-top: 3em;
+  margin: auto;
+  margin-bottom: 7em
   width: 70%;
   text-align: justify;
   padding-left: 2em;
   padding-right: 2em;
-  padding-bottom: 1em;
+  padding-bottom: 5em;
+  padding-top: 2em;
   min-height: 400px;
   clear: both;
+  overflow: auto;
+  position: relative;
 }
 
 aside {
-  float: left;
-  width: 1075px;
-  height: 3em;
+  width: auto;
+  height: auto;
   background-color: #8A0808;
-  position: absolute;
   color: black;
   text-align: center;
   list-style-type: none;
-  margin-left: 14em;
+  margin: auto;
+  margin-left: 16em;
   padding: 0;
   overflow: hidden;
-  position: fixed;
+  position: absolute;
+  top: 7em;
 }
 
 nav ul {
