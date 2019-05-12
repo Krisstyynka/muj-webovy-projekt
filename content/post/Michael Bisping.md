@@ -7,7 +7,7 @@ tags:
     - UFC
 ---
 
-<img src="https://is.muni.cz/auth/www/488928/Michael-Bisping_obrazek.jpg">
+<img src="https://is.muni.cz/auth/www/488928/Michael-Bisping_obrazek.jpg" width="200" height="300 >
 
 **Datum narození**: 28. února 1979 <br>
 **Země narození**: Kypr <br>
