@@ -26,4 +26,8 @@ Za svou kariéru pětkrát získal ocenění „Zápas večera“. V historii UF
 ## Osobní život <br>
 Narodil se na britské vojenské základně na Kypru, protože jeho otec Jan byl členem britské armády. Ve svém mládí vystřídal mnoho povolání – byl například pracovníkem na jatkách, pošťákem či prodavačem. Bisping trpí strabismem, což je šilhání a jeho oči tedy při pohledu na objekt nesměřují stejným směrem. Tato oční vada byla výsledkem zranění v jeho zápase s Vitorem Belfortem v roce 2013. Se svou manželkou Rebeccou má 3 děti a jeden z jeho synů se věnuje wrestlingu. Zahrál si i několik menších filmových rolí, například v novém XXX. <br>
 
+<<<<<<< HEAD
 <img src="https://is.muni.cz/auth/www/488928/Michael-Bisping_obrazek.jpg" width="200" height="300 >
+=======
+<img src="https://is.muni.cz/auth/www/488928/Michael-Bisping_obrazek.jpg" width="200" height="300 >
+>>>>>>> Michael-Bisping
