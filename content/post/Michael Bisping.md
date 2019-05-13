@@ -7,6 +7,8 @@ tags:
     - UFC
 ---
 
+<img src="https://is.muni.cz/auth/www/488928/Michael-Bisping_obrazek.jpg" width="200" height="300">
+
 **Datum narození**: 28. února 1979 <br>
 **Země narození**: Kypr <br>
 **Přezdívka**: The Count <br>
@@ -25,5 +27,3 @@ Poté, co se zranil Chris Weidman, bylo Bispingovi nabídnuto, aby se utkal o ti
 Za svou kariéru pětkrát získal ocenění „Zápas večera“. V historii UFC je na druhém místě s největším počtem výher napříč váhovými kategoriemi (20).  <br>
 ## Osobní život <br>
 Narodil se na britské vojenské základně na Kypru, protože jeho otec Jan byl členem britské armády. Ve svém mládí vystřídal mnoho povolání – byl například pracovníkem na jatkách, pošťákem či prodavačem. Bisping trpí strabismem, což je šilhání a jeho oči tedy při pohledu na objekt nesměřují stejným směrem. Tato oční vada byla výsledkem zranění v jeho zápase s Vitorem Belfortem v roce 2013. Se svou manželkou Rebeccou má 3 děti a jeden z jeho synů se věnuje wrestlingu. Zahrál si i několik menších filmových rolí, například v novém XXX. <br>
-
-<img src="https://is.muni.cz/auth/www/488928/Michael-Bisping_obrazek.jpg" width="200" height="300 >
