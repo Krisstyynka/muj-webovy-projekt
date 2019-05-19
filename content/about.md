@@ -69,11 +69,12 @@ Z [tohoto](https://dangelicoguitars.com/?fbclid=IwAR1vysfNkFJAAvGgEMV7plRKFetCiw
 **Strategie zveřejňování obsahu:** V první části našeho projektu se zaměříme na to, co to vlastně MMA je, jak probíhají tréninky zápasníků a zmíníme základní údaje o tomto sportu. Také nahlédneme k nám, do České republiky, a podíváme se, jakou tradici má zde tento sport a jaké organizace existují i u nás. Dále se budeme zabývat organizací UFC, kde popíšeme celou historii MMA, jak to všechno vzniklo. Ve druhé části projektu se budeme zabývat TOP 10 evropskými zápasníky MMA, které podrobněji představíme – jejich životy, úspěchy a kariéru.
 
 
-This is a minimal [Hugo][] website created for a course [VIKBA07][].
+<!--This is a minimal [Hugo][] website created for a course [VIKBA07][].
 
-Learn more about Hugo with a [quick start guide][qs] or by exploring its [documentation][hugoDocs].
+Learn more about Hugo with a [quick start guide][qs] or by exploring its [documentation][hugoDocs].-->
 
 [Hugo]: https://gohugo.io
 [VIKBA07]: https://is.muni.cz/predmet/phil/VIKBA07
 [hugoDocs]: https://gohugo.io/documentation/
 [qs]: https://gohugo.io/getting-started/quick-start/
+
