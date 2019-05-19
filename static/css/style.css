@@ -53,8 +53,9 @@ aside {
   text-align: center;
   list-style-type: none;
   margin: auto;
-  margin-left: 18em;
+  margin-left: 16em;
   padding: 0;
+  padding-right: 2.8em;
   overflow: hidden;
   position: absolute;
   top: 7em;
