@@ -2,9 +2,10 @@
   max-width: 2000px;
   background-color: black;
   font-family: Century gothic;
-  background-image: url("http://st.gde-fon.com/wallpapers_original/458592_boec_smeshannye-boevye-iskusstva_graf_majkl_1680x1050_www.Gde-Fon.com.jpg");
+  background-image: url("https://wallpaperplay.com/walls/full/4/3/1/92056.jpg");
   background-repeat: no-repeat;
-  background-position: 600% 0%;
+  background-position: center;
+  background-attachment: fixed;
 }
 
 header {
