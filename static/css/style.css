@@ -2,9 +2,9 @@
   max-width: 2000px;
   background-color: black;
   font-family: Century gothic;
-  background-image: url("https://wallpapercave.com/wp/wp3143925.jpg");
+  background-image: url("http://st.gde-fon.com/wallpapers_original/458592_boec_smeshannye-boevye-iskusstva_graf_majkl_1680x1050_www.Gde-Fon.com.jpg");
   background-repeat: no-repeat;
-  background-position: 45% 10%;
+  background-position: 600% 0%;
 }
 
 header {
@@ -55,6 +55,7 @@ aside {
   margin: auto;
   margin-left: 16em;
   padding: 0;
+  padding-right: 2.8em;
   overflow: hidden;
   position: absolute;
   top: 7em;

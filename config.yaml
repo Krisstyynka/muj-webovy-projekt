@@ -5,7 +5,7 @@ publishDir: public
 
 menu:
   main:
-    - name: Homepage
+    - name: Domů
       url: /
       weight: 10
     - name: Články
