@@ -32,7 +32,7 @@ Jsou zakázány údery do genitálií, údery do temene hlavy nebo píchání do
 
 **Druhy bojovníků** <br>
 - *Striker* – brání takedownům, bojuje často v postoji, chce zápas ukončit K.O. nebo TKO
-- *Wrestler* - často používá porazy a snaží se soupeře dobít na zemi
+- *Wrestler* - často používá takedowny a snaží se soupeře dobít na zemi
 - *Groundfighter/Grappler/Jiu-jitsu fighter* – přenáší boj na zem a tam si následně vynutí vzdání soupeře pomocí různých technik, např. pákou nebo škrcením <br>
 
 **Váhové kategorie** <br>
