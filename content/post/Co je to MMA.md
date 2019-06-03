@@ -31,8 +31,8 @@ Zápasníci bojují v oktagonu, což je osmiúhelník vyplněný pletivem. V pro
 Jsou zakázány údery do genitálií, údery do temene hlavy nebo píchání do očí. Bojovníci se také nesmí držet pletiva nebo soupeřových trenek. Na dodržování pravidel vždy dohlíží rozhodčí. <br>
 
 **Druhy bojovníků** <br>
-- *Striker* – brání takedownům, bojuje často v postoji, chce zápas ukončit K.O. nebo TKO
-- *Wrestler* - často používá takedowny a snaží se soupeře dobít na zemi
+- *Striker* – brání takedownům, bojuje často v postoji, chce zápas ukončit K.O. nebo TKO <br>
+- *Wrestler* - často používá takedowny a snaží se soupeře dobít na zemi <br>
 - *Groundfighter/Grappler/Jiu-jitsu fighter* – přenáší boj na zem a tam si následně vynutí vzdání soupeře pomocí různých technik, např. pákou nebo škrcením <br>
 
 **Váhové kategorie** <br>
@@ -49,7 +49,7 @@ Zápasí se v několika váhových kategoriích, každá kategorie má svého š
 8.	*těžká váha (heavyweight)* – do 120kg <br>
 
 **Ženské váhové kategorie:** <br>
-1.	*women strawweight* – do 52 kg <br>
+1.	*slámová váha (strawweight)* – do 52 kg <br>
 2.	*bantamová váha (bantamweight)* – do 61 kg <br>
 3.	*pérová váha (featherweight)* - do 66 kg <br>
 
