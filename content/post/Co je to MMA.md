@@ -6,7 +6,7 @@ tags:
     - fighting
     - UFC
 ---
-<img src="https://is.muni.cz/auth/www/489052/projekt/MMA.jpg">
+<img src="https://is.muni.cz/auth/www/489052/projekt/MMA.jpg" width="600" height="400">
 
 **Mixed Martial Arts**, zkráceně **MMA** neboli smíšená bojová umění, je plnokontaktní bojový sport bez využití zbraní.  Boj může probíhat ve stoje i na zemi a spojuje různé techniky bojových sportů. MMA vzniklo na konci 20. století. <br>
 
