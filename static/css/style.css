@@ -40,26 +40,25 @@ footer {
   padding-right: 2em;
   padding-bottom: 5em;
   padding-top: 2em;
-  min-height: 400px;
+  min-height: 600px;
   clear: both;
   overflow: auto;
   position: relative;
 }
 
 aside {
-  width: auto;
+  width: 99%;
   height: auto;
   background-color: #8A0808;
   color: black;
   text-align: center;
   list-style-type: none;
-  margin: auto;
-  margin-left: 16em;
-  padding: 0;
-  padding-right: 2.8em;
+  float: left;
   overflow: hidden;
+  clear: both;
   position: absolute;
   top: 7em;
+  text-decoration: none;
 }
 
 nav ul {
