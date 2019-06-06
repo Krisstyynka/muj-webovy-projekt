@@ -1,6 +1,6 @@
 ---
 title:  "UFC"
-date:   2018-06-06
+date:   2019-06-06
 tags: 
     - UFC
     - MMA
@@ -11,7 +11,7 @@ The Ultimate Fighting Championship (UFC) je americká společnost, která provoz
 
 První turnaj se konal roku 1993 v Denveru, v americkém státě Colorado. Záměrem prvních turnajů bylo najít nejefektivnější bojové umění. Mezi sebou soutěžili zástupci nejrůznějších bojových umění – boxu, thajského boxu, wrestlingu, jiu-jitsu, karate či juda. V té době neexistovaly žádné váhové kategorie ani žádná pravidla zápasu, jako je tomu dnes. Postupem času začali zápasníci přebírat efektivní techniky i z jiných bojových umění (například judista přidal techniku z jiu-jitsu) a díky tomuto propojení více stylů boje vzniklo dnešní smíšené bojové umění. <br>
 
-HISTORIE <br>
+**HISTORIE** <br>
 Vše začalo tím, že podnikatel Art Davie přišel za scénáristou Johnem Miliusem a velmistrem jiu-jitsu Rorionem Graciem s návrhem na eliminační turnaj s osmi zápasníky, který měl nést název „War of the Worlds“ (Válka světů). Turnaj byl inspirován video-seriálem „Gracies in Action“, ve kterém se objevovali Gracieho studenti jiu-jitsu, kteří byli schopni porazit zápasníky jiných bojových umění. Turnaj se měl také skládat ze zápasníků s kořeny v různých bojových uměních, a ti se pak spolu měli utkat v zápase bez pravidel (no-holds-barred). Díky tomuto turnaji se mělo zjistit, jaké bojové umění je nejlepší. Za účelem vzniku televizní série, a s pomocí investorů, vznikla společnost WOW Promotions. Společnost Semaphore Entertainment Group (SEG), která se stal jedním z partnerů WOW Promotions, vymyslela název pro tuto show – Ultimate Fighting Championship. <br>
 
 WOW Promotions společně se SEG produkovali první událost, později nazvanou UFC 1, která se uskutečnila 12. listopadu 1993 v Denveru. Turnaj se snažil odpovědět na divácké otázky, mezi kterými například bylo, zda je boxer schopen porazit wrestlera. V té době měla velká většina zápasníků zkušenost jen s technikami jednoho odvětví bojových sportů, což znamenalo značnou výhodu pro soupeře, kteří měli zkušenosti s více bojovými sporty. Na turnaji byli kupříkladu představeni kickboxer Patrick Smith, karate expert Zane Frazier, zápasník suma Teila Tuli či držitel černého pásu v brazilském jiu-jitsu, Royce Gracie (mladší bratr spoluzakladatele Roriona). Díky svým schopnostem, kterými donutil soupeře k sumbisi (vzdání se), se stal Royce Gracie prvním šampionem UFC. 
