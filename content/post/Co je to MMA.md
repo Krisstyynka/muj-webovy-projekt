@@ -50,6 +50,7 @@ Zápasí se v několika váhových kategoriích, každá kategorie má svého š
 
 **Ženské váhové kategorie:** <br>
 1.	*slámová váha (strawweight)* – do 52 kg <br>
-2.	*bantamová váha (bantamweight)* – do 61 kg <br>
-3.	*pérová váha (featherweight)* - do 66 kg <br>
+2.  *muší váha (flyweight)* - do 57 kg <br>
+3.	*bantamová váha (bantamweight)* – do 61 kg <br>
+4.	*pérová váha (featherweight)* - do 66 kg <br>
 
